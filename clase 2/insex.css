@@ -1,0 +1,25 @@
+.tarjeta{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+
+    width: 400px; 
+    border: 1px solid lightgoldenrodyellow;
+    box-shadow: 2px 2px 8px 4px darkgreen;
+    border-radius: 15px;
+    font-family: sans-serif;
+}
+.titulo{
+    font-size: 24px;
+    padding: 10px 10px 10px 0 10px;;
+}
+.cuerpo{
+    padding: 10px;
+
+}
+img{
+    border-radius: 50%;
+    width: 30%;
+    height: 350px;
+}
